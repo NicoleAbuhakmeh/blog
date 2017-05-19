@@ -170,6 +170,8 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    phantom-blergh (0.2.0)
+      jekyll (~> 3.3)
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
@@ -195,7 +197,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  phantom-blergh
   tzinfo-data
 
 RUBY VERSION
