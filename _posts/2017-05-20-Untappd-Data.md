@@ -13,13 +13,13 @@ We all have dreams and goals we strive to achieve. Some are to make it through t
 That's the day I found Untappd! Since day 1 we have been best friends in the craft beer game! It keeps me updated on events nearby, new
 beers and suggests existing ones for me to find.  It also gave me a goal to work towards, a rather annoying one as it would turn out. 
  
-**I will drink a craft beer brewed from each state in the USA!**
+> I will drink a craft beer brewed from each state in the USA!
 
 That's where [my lovely supportive husband](https://twitter.com/buhakmeh) came in like the superhero he is.  He pulled all of my data from Untappd to build this amazing 
 series of maps and graphs with Google DataStudio.  This is when he started calling me his Lush, lovingly.  I'd deny it, but the data 
 doesn't lie. 
 
-![Drawing Number One]({{ site.url }}/images/untappddata.png)
+![untappd data dashboard]({{ site.url }}/images/untappddata.png)
 
 This is a snapshot of my Untappd stats.  [Find me & Let's be friends!](https://untappd.com/user/Truthisnikkirocks)
 
