@@ -12,7 +12,7 @@ image:
 
 ### Experience
 
-* Planned and traveled through Germany, France, Luxembourg, Italy, Japan, Canada, Iceland, Jamaica, Alaska and most of the other 48 states
+Planned and traveled through Germany, France, Luxembourg, Italy, Japan, Canada, Iceland, Jamaica, Alaska and most of the other 48 states
 
 
 ### Remember
