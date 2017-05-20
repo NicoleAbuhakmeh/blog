@@ -1,5 +1,5 @@
 ---
-layout: post-dark-feature
+layout: post-light-feature
 title: "Untappd Data doesn't lie, I'm a Lush"
 description: "Craft Beer Mission - Gotta drink from them all!"
 comments: true
