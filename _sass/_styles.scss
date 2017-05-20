@@ -190,7 +190,7 @@ header.site-header {
 
 #bump .darken {
       
-      a {
+      a, h2 {
       color: $black;
       @include transit(all, .2s, ease-in-out);
 
@@ -222,7 +222,9 @@ header.site-header a.menu {
   display: none;
 }
 
-header.site-header hgroup h1, header.site-header nav ul {
+header.site-header hgroup h1,
+header.site-header nav ul,
+header.site-header hgroup h2 {
   font-family: $sans;
 }
 header.site-header hgroup {
@@ -230,11 +232,21 @@ header.site-header hgroup {
   padding-left: 5vw;
   h1 {
       font-weight: 700;
-      font-size: 18px;
+      font-size: 22px;
       line-height: 100%;
       color: $accent;
       letter-spacing: 2px;
       text-transform: uppercase;
+      text-decoration: underline;
+      padding-bottom: 5px;
+  }
+  h2 {
+    font-size: 16px;
+    text-align: center;
+    color: #eee;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
   }
   a {
       color: #fff;
@@ -355,7 +367,7 @@ header.site-header nav {
     display: block;
     margin: 0 auto;
     float: none;
-    padding-top: 140px;
+    padding-top: 30px;
     
     // Post Listing
     .post-list {
