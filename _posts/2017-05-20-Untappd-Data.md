@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Untappd Data doesn't lie, I'm a Lush"
-description: "Craft Beer Mission - Gotta drink from them all!"
-comments: true
-category: articles
-image: 
-    feature: 2009-03-07_Beer_at_the_bottom_of_a_glass.jpg
+subtitle: "Craft Beer Mission - Gotta drink from them all!"
+bigimg: /img/2009-03-07_Beer_at_the_bottom_of_a_glass.jpg
 ---
 
 We all have dreams and goals we strive to achieve. Some are to make it through the work day, some are to make it to Mars. When I started my journey in drinking craft beer I didn't have a dream or goal, just wanted to find different beers that I hadn't had before. I was having a homebrew beer with my Aunt Rose when she pulled out a paper journal of the different beers she & my uncle have brewed and drank.  That got my brain going - There has to be an online log for this type of thing!  
@@ -19,7 +16,7 @@ That's where [my lovely supportive husband](https://twitter.com/buhakmeh) came i
 series of maps and graphs with Google DataStudio.  This is when he started calling me his Lush, lovingly.  I'd deny it, but the data 
 doesn't lie. 
 
-![untappd data dashboard]({{ site.url }}/images/untappddata.png)
+![untappd data dashboard]({{ site.url }}/img/untappddata.png)
 
 This is a snapshot of my Untappd stats.  [Find me & Let's be friends!](https://untappd.com/user/Truthisnikkirocks)
 
