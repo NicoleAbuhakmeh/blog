@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About med
+title: About me
 subtitle: Hi, I'm Nicole, but you can call me Niks
 bigimg: "/img/map1.png"
 ---
@@ -13,6 +13,7 @@ bigimg: "/img/map1.png"
 - I am owned by the most loving, big headed pup named Samson. 
 
 # Where have I traveled?
+
 - Iceland
 - Germany, France, Luxembourg
 - Jamaica
@@ -24,7 +25,8 @@ bigimg: "/img/map1.png"
 
 
 ## Words I tend to live by:
- - I have not been everywhere yet, but it's on my list
+
+> I have not been everywhere yet, but it's on my list
  
 and my favorite... 
 ![alt text][logo]
