@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Nicole, but you can call me Niks
-bigimg: "/img/not-all-who-wander-are-lost-wallpaper-1.jpg"
+bigimg: "/img/amcharts.jpg"
 ---
 # Things to know about me 
 
