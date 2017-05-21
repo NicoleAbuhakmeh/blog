@@ -137,6 +137,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+      googlefonts: ["Swanky and Moo Moo"]
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
