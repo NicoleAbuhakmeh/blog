@@ -93,7 +93,7 @@ url-pretty: "wanderinglush.com"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "wandering-lush"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-42212516-2"
 
 # Google Tag Manager ID
 #gtm: ""
