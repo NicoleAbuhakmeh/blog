@@ -3,7 +3,6 @@ layout: post
 title: "Untappd Data doesn't lie, I'm a Lush"
 subtitle: "Craft Beer Mission - Gotta drink from them all!"
 bigimg: /img/2009-03-07_Beer_at_the_bottom_of_a_glass.jpg
-image: /img/map1.png
 ---
 
 We all have dreams and goals we strive to achieve. Some are to make it through the work day, some are to make it to Mars. When I started my journey in drinking craft beer I didn't have a dream or goal, just wanted to find different beers that I hadn't had before. I was having a homebrew beer with my Aunt Rose when she pulled out a paper journal of the different beers she & my uncle have brewed and drank.  That got my brain going - There has to be an online log for this type of thing!  
