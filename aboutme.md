@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Nicole, but you can call me Niks
-bigimg: "/img/amcharts.jpg"
+bigimg: "/img/amCharts.jpg"
 ---
 # Things to know about me 
 
