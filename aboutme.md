@@ -27,7 +27,7 @@ bigimg: "/img/map1.png"
  - I have not been everywhere yet, but it's on my list
  
 and my favorite... 
-![alt text][logo]dddddddd
+![alt text][logo]
 
 [logo]: http://allswalls.com/images/not-all-who-wander-are-lost-wallpaper-1.jpg
 *credit to AllWalls for my beautiful wallpaper*
