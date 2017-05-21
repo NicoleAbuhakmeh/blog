@@ -3,13 +3,13 @@ layout: page
 title: About me
 subtitle: Hi, I'm Nicole, but you can call me Niks
 ---
-#Things to know about me
+# Things to know about me 
 
 - I live to travel. It's what drives me and gets me through my downtimes.
 - I am on a search to find the best sour beers this world has to offer.
-- I am owned by the most loving, big headed pup named Samson.
-
-
+- Life is too short to not have purple/blue mermaid hair, even if my teenager doesn't think it's cool
+- [My husband](https://twitter.com/buhakmeh) is my rock & superhero
+- I am owned by the most loving, big headed pup named Samson. 
 
 #Where have I traveled?
 - Iceland
