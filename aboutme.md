@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Nicole, but you can call me Niks
-bigimg: http://allswalls.com/images/not-all-who-wander-are-lost-wallpaper-1.jpg
+bigimg: "http://allswalls.com/images/not-all-who-wander-are-lost-wallpaper-1.jpg"
 ---
 # Things to know about me 
 
