@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About med
 subtitle: Hi, I'm Nicole, but you can call me Niks
 bigimg: "/img/map1.png"
 ---
@@ -27,8 +27,8 @@ bigimg: "/img/map1.png"
  - I have not been everywhere yet, but it's on my list
  
 and my favorite... 
-![alt text][logo]
+![alt text][logo]dddddddd
 
 [logo]: http://allswalls.com/images/not-all-who-wander-are-lost-wallpaper-1.jpg
-credit to AllWalls for my beautiful wallpaper
+*credit to AllWalls for my beautiful wallpaper*
 
