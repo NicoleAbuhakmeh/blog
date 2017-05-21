@@ -1,16 +1,31 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi, I'm Nicole, but you can call me Niks
 ---
+#Things to know about me
 
-My name is Inigo Montoya. I have the following qualities:
+- I live to travel. It's what drives me and gets me through my downtimes.
+- I am on a search to find the best sour beers this world has to offer.
+- I am owned by the most loving, big headed pup named Samson.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### my history
+#Where have I traveled?
+- Iceland
+- Germany, France, Luxembourg
+- Jamaica
+- Japan
+- Mexico
+- Canada
+- Alaska (Honeymoon!)
+- 30 out of the 50 States (as of 5.20.17 - working on visiting all 50 states by the time i'm 50!) 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+Words I tend to live by:
+ - I have not been everywhere yet, but it's on my list
+ 
+and my favorite... 
+
+
+
