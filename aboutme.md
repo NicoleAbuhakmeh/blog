@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Nicole, but you can call me Niks
-bigimg: "/img/amCharts.jpg"
+bigimg: "/img/map1.jpg"
 ---
 # Things to know about me 
 
@@ -20,7 +20,7 @@ bigimg: "/img/amCharts.jpg"
 - Mexico
 - Canada
 - Alaska (Honeymoon!)
-- 30 out of the 50 States (as of 5.20.17 - working on visiting all 50 states by the time i'm 50!) 
+- USA, 30 out of 50 as of 5.20.17 (watch my map change as I cross more off!)
 
 
 ## Words I tend to live by:
@@ -30,5 +30,5 @@ and my favorite...
 ![alt text][logo]
 
 [logo]: http://allswalls.com/images/not-all-who-wander-are-lost-wallpaper-1.jpg
-
+credit to AllWalls for my beautiful wallpaper
 
