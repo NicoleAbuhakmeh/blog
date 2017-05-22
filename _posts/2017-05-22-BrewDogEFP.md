@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Looking for an awesome birthday beer gift?"
+subtitle: "Make them a PUNK!"
+bigimg:/img/2009-03-07_Beer_at_the_bottom_of_a_glass.jpg
+---
 
 # Looking for an awesome birthday beer gift? Make them a PUNK!!
 
