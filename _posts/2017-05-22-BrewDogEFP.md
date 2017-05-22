@@ -6,7 +6,7 @@ bigimg: "/img/2009-03-07_Beer_at_the_bottom_of_a_glass.jpg"
 ---
 
 
-I have been on the receiving end of some pretty nice and thoughtful gifts, but more often than not, I have to just regift things I've received. *(Sorry friends & family, I'm allergic to shellfish - so a crab claw cracker set isn't needed in my house!)* 
+I have been on the receiving end of some pretty nice and thoughtful gifts, but more often than not, I have to just regift things I've received. *(Sorry friends and family, I'm allergic to shellfish - so a crab claw cracker set isn't needed in my house!)* 
 
 This year for my birthday, I wasn't taking any chances.  
 
