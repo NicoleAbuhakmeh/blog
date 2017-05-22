@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Looking for an awesome birthday beer gift?
+title: Looking for an Awesome Birthday Beer Gift?
 subtitle: Make them a PUNK!
 bigimg: "/img/2009-03-07_Beer_at_the_bottom_of_a_glass.jpg"
 ---
 
-# Looking for an awesome birthday beer gift? Make them a PUNK!!
 
 I have been on the receiving end of some pretty nice and thoughtful gifts, but more often than not, I have to just regift things I've received. *(Sorry friends & family, I'm allergic to shellfish - so a crab claw cracker set isn't needed in my house!)* 
 
