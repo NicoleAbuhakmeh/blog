@@ -10,7 +10,8 @@ bigimg: "/img/map1.png"
 - I am on a search to find the best sour beers this world has to offer.
 - Life is too short to not have purple/blue mermaid hair, even if my teenager doesn't think it's cool.
 - [My husband](https://twitter.com/buhakmeh) is my rock & superhero.
-- I am owned by the most loving, big headed pup named Samson. 
+- I am owned by a big headed pup named Samson. He's adorable but a power chewer. Nothing is safe with this guy around. 
+![Image of samson](https://nicoleabuhakmeh.github.io/img/SamsonTilt.JPG)
 
 # Where have I traveled?
 
