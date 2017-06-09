@@ -4,7 +4,7 @@ title: "Hey Babe, Wanna go to Iceland?"
 subtitle: "Roadtripping in the land of Fire and Ice"
 bigimg: /img/Iceland_Rainbow.jpg
 ---
-# Hey Babe, Wannna go to Iceland?
+# Hey Babe, Wanna go to Iceland?
 
 On a whim the husband and I decided to give Iceland a try.  WowAir lines was new to Baltimore and as a welcome to the area they were offering $99 dollar one way flights- so going by the phrase of 2015’s YOLO, off we went. 
 I wasn’t sure what to expect. We’ve all seen the bucketlist photos of the Blue Lagoon,  Gulfoss &  Glacier lagoon, but let me tell you… Nothing prepares you for the pure natural beauty that Iceland has to offer. NOTHING. Ok, maybe childbirth, but still it’s just as inspiring.
@@ -13,12 +13,12 @@ I wasn’t sure what to expect. We’ve all seen the bucketlist photos of the Bl
 ![Image of Wow Airlines Legroom when you upgrade](https://rsz.io/nicoleabuhakmeh.github.io/img/Iceland_wowairlines_legroom.JPG)
 <i>Wow. WowAirlines Legroom really is pretty awesome when you're in an exit row.</i>
 
-We stepped off the plane at 4am Iceland time into a dreary yet magical world. Daylight was just starting to break as we picked up our tiny little manual rental car.  A shiny red Chevy Sonic that was appropriate for maybe someone of my height (5’3) but not my husband’s 6’2 self.  We managed to pack ourselves & gear in the little beast for our 5-day adventure! 
+We stepped off the plane at 4am Iceland time into a dreary yet magical world. Daylight was just starting to break as we picked up our tiny little manual rental car.  A shiny red Chevy Spark that was appropriate for maybe someone of my height (5’3) but not my husband’s 6’2 self.  We managed to pack ourselves & gear in the little beast for our 5-day adventure! 
 
 ![Image Tiny Chevy Spark](https://rsz.io/nicoleabuhakmeh.github.io/img/Iceland_Chevy_Spark.JPG)
-<I> I think next time we'll upgrade our car too, but this little baby did the trick for our few days. </i>
+<I> I think next time we'll upgrade our car too, but this little baby managed to the trick for our few days. </i>
 
-Car tip: Something we take for granted in the US is the use of our debit cards for any purchase from a few cents to as much as you can spend in your bank account.  European counties had the chip and pin for many months, maybe even years before we did and we didn’t realize this before our trip. Enter in the exhausting ritual of buying a preloaded gas station ‘gift card’ for the amount of gas we may need to purchase in our rental.  Another car tip: Stop for gas when you’re below a half tank, just in case. 
+Car tip: Something we take for granted in the US is the use of our debit cards for any purchase from a few cents to as much as you can spend in your bank account.  European counties have had the chip and pin long before it was rolled out here.  We didn’t realize this before our trip. Enter in the exhausting ritual of buying a preloaded gas station ‘gift card’ for the amount of gas we may need to purchase in our rental.  Another car tip: Stop for gas when you’re below a half tank, just in case. 
 
 Our first stop was of course the [Blue Lagoon](http://www.bluelagoon.com/), what better way to kick off a vacation than a spa day. I had done a little research on what to expect at the bathhouse. I knew I had to shower <i>naked</i> making careful care to wash my hair of any products. What I did not do is share this knowledge with my husband.  ☺
 
@@ -34,7 +34,7 @@ Sightseeing tip: I would say that lounging in the Blue Lagoon is a one and done 
 I get a huge rush of adrenaline when I’m traveling. I could probably go for 48 hours straight until I have the need for sleep.  My husband is not that kind of traveler.  He hits the wall about 20 hours in. As he was the driver for this trip, I needed to keep him happy.  Before we made our way to our hotel in Reykjavik, we did a drive along the southwestern coast where I got my first taste of the amazing countryside. 
 
 
-Hotel tip: If you are looking for a hotel with free parking, a great starting location for sightseeing tours and within walking distance to ALL of Reykjavik – Radisson Blu is it.  I paid $300 total US Dollars for 5 days with free wifi and late check out.  Kayak baby!  The bar in the lobby is also pretty well stocked with Icelandic beers.  
+Hotel tip: If you are looking for a hotel with free parking, a great starting location for sightseeing tours and within walking distance to ALL of Reykjavik – Radisson Blu is it.  I paid $300 total US Dollars for 5 days with free wifi and late check out.  The bar in the lobby is also pretty well stocked with Icelandic beers.  
 
 
 
@@ -42,10 +42,10 @@ Hotel tip: If you are looking for a hotel with free parking, a great starting lo
 <i>Hekla @ Radisson Blu (If you see Hekla tip her well, she’s an awesome chick!) </i>
 
 
-Food tip: It was a vacation so we didn’t think to set an alarm to wake up at a certain time after a nap, and we basically slept through dinnertime. If you think Reykjavik would be one of those cities that doesn’t follow the traditional opening and closing times, you would be as wrong –as I was.  ☹ Hangry Niks is not a good travel partner.  It was close to 9pm as we stumbled upon our salvation.  An Icelandic Pho shop called [Noodle Station](http://www.noodlestation.is/) was the only place still open – It’ll have to do.  And do it did – It still ranks high up on my Pho experiences.  They had a tasty broth with the traditional mix-ins. It really hit the spot after rainy night’s walk through the city. 
+Food tip: It was a vacation so we didn’t think to set an alarm to wake up at a certain time after a nap, and we ended up sleeping through dinnertime. If you think Reykjavik would be one of those cities that doesn’t follow the traditional opening and closing times, you would be as wrong –as I was.  ☹ Hangry Niks is not a good travel partner.  It was close to 9pm as we stumbled upon our salvation.  An Icelandic Pho shop called [Noodle Station](http://www.noodlestation.is/) was the only place still open – It’ll have to do.  And do it did – It still ranks high up on my Pho experiences.  They had a tasty broth with the traditional mix-ins. It really hit the spot after rainy night’s walk through the city. 
 
 
-So, what about the food? Yes, we had the fermented shark and the shot of Black Death as tourists are told to do. I also knew I had to find good fish and chips while I was there, but I also wanted to try the Icelandic versions of some American favorites.   While we were out exploring the countryside we didn’t have many choices, we came across an “American” Burger joint the first day. The burger was slightly strange with a slight taste of onions without any onions actually being on the burger. They served it with french fries and ketchup. Something else I forgot since it had been so long since I was in Europe, was how much paprika is in their version of ketchup.  It was an off-putting eating experience, but I was determined to not let this ruin my growing love for Iceland.   The pizza I had later in the week more than made up for how they interpret American food.  
+So, what about the food? Yes, we had the fermented shark and the shot of Black Death as tourists are told to do. We had the hotdog, not great. With being in the Artic, I knew I had to find good fish and chips while I was there, but I also wanted to try the Icelandic versions of some American favorites.   While we were out exploring the countryside we didn’t come across too choices. We came across an “American” Burger joint the first day while about an hour outside of Reykjavik. The burger was slightly strange with a slight taste of onions without any onions actually being on the burger. They served it with french fries and ketchup. Something else I forgot since it had been so long since I was in Europe, was how much paprika is in their version of ketchup.  It was an off-putting eating experience, but I was determined to not let this ruin my growing love for Iceland.   The pizza I had later in the week more than made up for how they interpret American food.  
 
  
 <i>![Image Iceland](https://rsz.io/nicoleabuhakmeh.github.io/img/Iceland_Pizza.JPG)
