@@ -16,7 +16,7 @@ I wasn’t sure what to expect. We’ve all seen the bucketlist photos of the Bl
 We stepped off the plane at 4am Iceland time into a dreary yet magical world. Daylight was just starting to break as we picked up our tiny little manual rental car.  A shiny red Chevy Spark that was appropriate for maybe someone of my height (5’3) but not my husband’s 6’2 self.  We managed to pack ourselves & gear in the little beast for our 5-day adventure! 
 
 ![Image Tiny Chevy Spark](https://rsz.io/nicoleabuhakmeh.github.io/img/Iceland_Chevy_Spark.JPG)
-<I> I think next time we'll upgrade our car too, but this little baby managed to the trick for our few days. </i>
+<I> I think next time we'll upgrade our car too, but this little baby managed to do the trick for our few days. </i>
 
 Car tip: Something we take for granted in the US is the use of our debit cards for any purchase from a few cents to as much as you can spend in your bank account.  European counties have had the chip and pin long before it was rolled out here.  We didn’t realize this before our trip. Enter in the exhausting ritual of buying a preloaded gas station ‘gift card’ for the amount of gas we may need to purchase in our rental.  Another car tip: Stop for gas when you’re below a half tank, just in case. 
 
