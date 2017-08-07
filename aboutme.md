@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Nicole
-bigimg: "/img/USAMAP.png"
+bigimg: "/img/MAPUSA.png"
 ---
 # Things to know about me 
 
