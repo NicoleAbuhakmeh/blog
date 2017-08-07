@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Nicole
-bigimg: "/img/map1.png"
+bigimg: "/img/USAMAP.png"
 ---
 # Things to know about me 
 
@@ -23,7 +23,7 @@ bigimg: "/img/map1.png"
 - Mexico
 - Canada
 - Alaska (Honeymoon!)
-- USA, 30 out of 50 as of 5.20.17 (watch my map change as I cross more off!)
+- USA, 32 out of 50 as of 8.8.17 (watch my map change as I cross more off!)
 
 
 ## Words I tend to live by:
