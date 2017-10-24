@@ -24,7 +24,7 @@ bigimg: "/img/MAPUSA.png"
 - Canada
 - Alaska (Honeymoon!)
 - USA, 32 out of 50 as of 8.8.17 (watch my map change as I cross more off!)
-
+- Upcoming: London, Belgium & Netherlands! 
 
 ## Words I tend to live by:
 
