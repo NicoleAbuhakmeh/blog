@@ -6,7 +6,7 @@ subtitle: Welcome fellow Wanderlushes!
 ---
 # Things to know about me 
 
-- My Passion is traveling. It's what drives me and gets me through my downtimes. Pretty sure my Grandfather is the reason I can't sit still. 
+- My passion is traveling. It's what drives me and gets me through my downtimes. Pretty sure my Grandfather is the reason I can't sit still. 
 - I am on a search to find the best sour beers this world has to offer.
 - My home office is filled with trinkets that I refuse to part with from our travels including a voodoo doll from cajun country, wooden tulips from Holland, lava rocks from Iceland and seashells from the Caymans. 
 - "Nothing compares to the excitement of exploring every corner of the earth with the person you love most by your side." Thankful I've got [My husband](https://twitter.com/buhakmeh) with me to figure out this path. 
