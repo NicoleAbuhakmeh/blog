@@ -63,6 +63,7 @@ Warming up with a fresh waffle on a cold rainy day </i>
 
  
 ![Image Iceland](https://nicoleabuhakmeh.github.io/img/Blueberry_Muffin_Airport.png)
+
 <i>Joe & the Juice, right in the airport before you leave, grab one – you won’t be sorry! I never knew a blueberry cheesecake muffin could be so pink! </i>
 
 
@@ -111,29 +112,15 @@ Small list of some of the places we went:
 ![Image Iceland](https://nicoleabuhakmeh.github.io/img/Reykavik_sights_Penis_Museum.jpg)
 <i>No, sorry Richard isn't here... </i>
 
-![Image Iceland](https://nicoleabuhakmeh.github.io/img/Reykjavik_sights1_sculpture.JPG)
-
-![Image Iceland](https://nicoleabuhakmeh.github.io/img/Reykjavik_sights_Hallgrímskirkja.JPG)
-
-![Image Iceland](https://nicoleabuhakmeh.github.io/img/Reykjavik_sights_Hallgrímskirkja_View.JPG)
-
 ![Image Iceland](https://nicoleabuhakmeh.github.io/img/Reykjavik_sights_Helmet.jpg)
 <i>This sucker was really on tight.</i>
 
 ![Image Iceland](https://nicoleabuhakmeh.github.io/img/Reykjavik_sights_Single_Gloves.jpg)
 
 
-Oh and the BEER… The sweet finding of a Mikkeller & Friends on the third story of a brownstone building on our last night in Reykjavik was just the right nightcap to our trip.  Just remember, alcohol in Iceland is expensive compared to what you may be used to in the states. As a craft & sour beer drinker, I didn’t find it too extravagantly priced. For example, this 4 oz. pour from Mikkeller set me back about $9, but it was also a beer that I may never find back home. 
-
-![Image Iceland](https://nicoleabuhakmeh.github.io/img/Mikkeller_and_Friends_Beer_in_iceland.JPG)
+Oh and the BEER… The sweet finding of a Mikkeller & Friends on the third story of a brownstone building on our last night in Reykjavik was just the right nightcap to our trip.  Just remember, alcohol in Iceland is expensive compared to what you may be used to in the states. As a craft & sour beer drinker, I didn’t find it too extravagantly priced. For example, a 4 oz. pour from Mikkeller set me back about $9, but it was also a beer that I may never find back home. 
 
 We had a few more hard to find brews and then made our way to the newest place in town for a local favorite – [Micro Bar](https://www.facebook.com/MicroBarIceland). 
-
-![Image Iceland](https://nicoleabuhakmeh.github.io/img/Love_and_Beer_in_Iceland.JPG)
-
-<i>Love and Beer in Iceland… his look says I’m ready to go home, mine says… just one more stop please? </i>
-
-He spoils me.  Or he didn’t have the energy to fight me. Either way…  Viking bar it was! 
   
 ![Image Iceland](https://nicoleabuhakmeh.github.io/img/VikingBartrip.JPG)
 
