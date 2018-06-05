@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Welcome fellow Wanderlushes! 
-bigimg: "/img/MAPUSA.png"
+
 ---
 # Things to know about me 
 
