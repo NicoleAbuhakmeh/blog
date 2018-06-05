@@ -8,8 +8,9 @@ subtitle: Welcome fellow Wanderlushes!
 
 - My passion is traveling. It's what drives me and gets me through my downtimes. Pretty sure my Grandfather is the reason I can't sit still. 
 - I am on a search to find the best sour beers this world has to offer.
+- My teenager [Bryn](https://www.instagram.com/bbbrrryyynnnnnn) is finally understanding that there is a world out there beyond Snapchat! Her passport has 2 stamps and 2 more pending! 
 - My home office is filled with trinkets that I refuse to part with from our travels including a voodoo doll from cajun country, wooden tulips from Holland, lava rocks from Iceland and seashells from the Caymans. 
-- "Nothing compares to the excitement of exploring every corner of the earth with the person you love most by your side." Thankful I've got [My husband](https://twitter.com/buhakmeh) with me to figure out this path. 
+- "Nothing compares to the excitement of exploring every corner of the earth with the person you love most by your side." Thankful I've got [My husband, Khalid](https://twitter.com/buhakmeh) with me to figure out this path. 
 - I make my living in educational software development, on the business side. Someone has to write the documentation, right?!
 - I am owned by a big headed pup named Samson. He's adorable and boy does he know it!  
 ![Image of samson](https://nicoleabuhakmeh.github.io/img/SamsonTilt.JPG)
