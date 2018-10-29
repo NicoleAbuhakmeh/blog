@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Welcome fellow Wanderlushes! 
+subtitle: Welcome Wanderer! 
 
 ---
 # Things to know about me 
