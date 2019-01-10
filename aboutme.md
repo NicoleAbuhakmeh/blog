@@ -14,6 +14,8 @@ subtitle: Welcome Wanderer!
 - I make my living in educational software development, on the business side. Someone has to write the documentation and test the code, right?!
 - I am owned by a big headed pup named Samson. He's adorable and boy does he know it!  
 ![Image of samson](https://nicoleabuhakmeh.github.io/img/SamsonTilt.JPG)
+- Our newest addition - Guinness aka Lil' G . We rescued him right after we returned from Ireland!  
+![Image of Guinness](https://nicoleabuhakmeh.github.io/img/Guinness.JPG)
 
 
 
