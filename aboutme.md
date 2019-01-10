@@ -12,10 +12,9 @@ subtitle: Welcome Wanderer!
 - My home office is filled with trinkets that I refuse to part with from our travels including a voodoo doll from cajun country, wooden tulips from Holland, lava rocks from Iceland and seashells from the Caymans. 
 - "Nothing compares to the excitement of exploring every corner of the earth with the person you love most by your side." Thankful I've got [My husband, Khalid](https://twitter.com/buhakmeh) with me to figure out this path. 
 - I make my living in educational software development, on the business side. Someone has to write the documentation and test the code, right?!
-- I am owned by a big headed pup named Samson. He's adorable and boy does he know it!  
-![Image of samson](https://nicoleabuhakmeh.github.io/img/SamsonTilt.JPG)
-- Our newest addition - Guinness aka Lil' G . We rescued him right after we returned from Ireland!  
-![Image of Guinness](https://nicoleabuhakmeh.github.io/img/Guinness.JPG)
+- These two are my furbabies.  Samson and Guinness aka Lil' G. Samson is my big mastiff english bulldog mix and Lil' G, well we're not so sure. We believe is part beagle, shar pei, hound and general monster.  
+![Image of samson and Guinness](https://nicoleabuhakmeh.github.io/img/SamsonGuinness.png)
+
 
 
 
