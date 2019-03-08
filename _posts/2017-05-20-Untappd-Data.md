@@ -18,7 +18,7 @@ doesn't lie.
 
 ![untappd data dashboard]({{ site.url }}/img/untappddata.png)
 
-This is a snapshot of my Untappd stats.  [Find me & Let's be friends!](https://untappd.com/user/Truthisnikkirocks)
+This is a snapshot of my Untappd stats.  [Find me & Let's be friends!](https://untappd.com/user/Nicoleabuhakmeh)
 
 ***Down to 6 states!*** Alabama, Arizona, Arkansas, New Mexico! North Dakota, South Dakota, New Mexico! 
 
