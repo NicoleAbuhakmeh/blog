@@ -56,7 +56,8 @@ This is a small list of some of the places we went around Tokyo (and the things 
 * Asakusa (Kaminari Gate, Sensoji Temple and Nakamise shopping street with Asakusa Kagetsudo the Melon-pan store)
 ![Sensoji Temple](https://nicoleabuhakmeh.github.io/img/HereinJapan.JPG)
 
-* Roppongi (Giant Spider, the best okonomiyaki , Brewdog) 
+* Roppongi (Giant Spider, the best okonomiyaki, Brewdog, Hedgehog Cafe) 
+![Hedgehog](https://nicoleabuhakmeh.github.io/img/Hedgehog.jpg)
 
 * Harajuku (Meiji Shrine, trendy shops and crepe stands on Takeshita Dori/Street!) 
 
@@ -98,10 +99,7 @@ We splurged on a JR Railpass to take in some of the further reaching areas inclu
 * Fujikawaguchiko, really small village at the base of Mount Fuji with a cute ice cream shop and great noodles! 
 ![Fujikawaguchiko](https://nicoleabuhakmeh.github.io/img/FujikawaguchikoMix.JPG)
 
-* Mount Fuji, after seeing the summit for the first 3 days in Tokyo, we get there and the cloud cover has taken over the top! ![Mount Fuji](https://nicoleabuhakmeh.github.io/img/Mtfujisunset.JPG)
-
-
-
+* Mount Fuji, after seeing the summit for the first 3 days in Tokyo, we get there and the cloud cover has taken over the top! We had to settle for the sunset view from Tokyo Tower. ![Mount Fuji](https://nicoleabuhakmeh.github.io/img/FujiSunset.JPG)
 
 
 ## Japanese Beer ##
@@ -117,4 +115,22 @@ Devilcraft
 World of Beer in Skytree
 Hofbrauhaus Shibuya
 
+  
 
+![Beer in Japan](https://nicoleabuhakmeh.github.io/img/BeerMix.jpg) 
+
+![More Beer in Japan](https://nicoleabuhakmeh.github.io/img/Beermix2.jpg) 
+
+  
+
+### Over all?  Get your butt to Japan! ### 
+
+  
+
+It’s a beautiful country that is polite and clean! Don’t worry about the language barrier issue.  Most everyone has a smartphone these days with a translation app. Even if you can’t say the words, you can just show the phone to the restaurant worker or transportation agent - they will get you what you want or to where you want to go.  Until next time!  
+
+  
+
+![Us in Japan](https://nicoleabuhakmeh.github.io/img/CoupleshotsJapan.JPG) 
+
+![Us in Japan](https://nicoleabuhakmeh.github.io/img/CoupleshotsJapan2.jpg) 
