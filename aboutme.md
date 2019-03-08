@@ -43,7 +43,8 @@ I always love to talk about travel, contact me if you have questions about any t
 - Germany
 
 
-# United States based travel map - trying to fill them all in by ground, not just air! 
+# United States based travel map
+I won't count the state if I was only in the airport there.  
 ![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/USAMapChart.jpg)
 
  [You can make your own travel map here!](https://www.amcharts.com)
