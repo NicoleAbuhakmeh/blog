@@ -18,21 +18,38 @@ subtitle: Welcome Wanderer!
 
 
 
-# What's on my travel list?
-- Seeing 49 out of the 50 states by RV
-- taking a river cruise through Europe
-- Snorkeling the Great Barrier reef and exploring the Gold Coast in Australia
-- Great Wall of China & Forbidden City (Feb 2019!)
-- Norway fjords
-- Christ the Redeemer & points south
-- Easter Island
-- Maldives, Bora Bora & other far away tropical locations
-- New Zealand
-- Ireland (Nov 2018!)
-- South Africa (May 2019!)
+# Where have my travels taken me internationally? 
 
-## Words I tend to live by:
+![Image of World Map](https://nicoleabuhakmeh.github.io/img/WorldcountryMap.jpg)
 
-> I have not been everywhere yet, but it's on my list
+I always love to talk about travel, contact me if you have questions about any travel plans that take you to any of these spots too! 
+
+- China with stops in Beijing, Xi'an, Suzhou, Wuxi, Hangzhou and Shanghai (Feb 2019)
+- Prague (January 2019)
+- Ireland & Northen Ireland (Nov 2018)
+- Mexico with stops in Cancun and Chichén Itzá (June 2018)
+- Grand Cayman Island (May 2018) 
+- Belgium with stops in Brussels and Bruges (Feb 2018)
+- Netherlands with a stop in Amsterdam (Feb 2018)
+- France with a stop in Paris and Versailles (Feb 2018)
+- England with stops in London, Bath, Windsor and Stonehenge (Nov 2017)
+- Canada with stops in Vancouver, Yukon, Niagara Falls and Toronto (May 2016, Jul 2017, Dec 2010)
+- Japan with stops in Tokyo, Kamakura, Nagano (Apr 2017)
+- Italy with stops in Venice, Florence & Rome (Feb 2017)
+- Vatican City (This counts! It's defined as a separate country inside Italy!)
+- Jamaica (Nov 2016)
+- Iceland (Oct 2015)
+- Germany
+- Luxembourg
+
+
+# United States based travel - I love maps!
+![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/USAMapChart.jpg)
+
+ [Make your own here:](https://www.amcharts.com)
+
+
+
+
 
 
