@@ -46,7 +46,7 @@ I always love to talk about travel, contact me if you have questions about any t
 # United States based travel - I love maps!
 ![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/USAMapChart.jpg)
 
- [Make your own here:](https://www.amcharts.com)
+ [Make your own here!](https://www.amcharts.com)
 
 
 
