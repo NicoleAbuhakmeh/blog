@@ -72,7 +72,7 @@ weekend)
 * Akihabara (6 story buildings with anything you could possibly want electronic wise, home to the amazing Owl Café!) 
 ![Owl Cafe](https://nicoleabuhakmeh.github.io/img/OwlMix.JPG)
 
-* Shibuya (Shibuya Crossing- The busiest intersection in the world, Spring Valley Brewery, kawaii culture and maid cafes, Izakayas – informal Japanese pubs! Also home to the Meiji Shrine!)
+* Shibuya (Shibuya Crossing- The busiest intersection in the world, Spring Valley Brewery, kawaii culture and maid cafes, Izakayas – informal Japanese pubs!)
 ![Shibuya Crossing](https://nicoleabuhakmeh.github.io/img/JapanTraffic.jpg)
 
 * Chiyoda (Hitachino Brewing Lab, Mario Cart racers) 
@@ -108,12 +108,12 @@ I really had one place I wanted to seek out for a beer and that was Brewdog.  We
 ![Brewdog Japan](https://nicoleabuhakmeh.github.io/img/BrewdogJapan.JPG)
 
 Some of the other places I was able to visit: 
-Hitachino Brewing Lab
-Spring Valley Brewery
-Asahi Beer Headquarters
-Devilcraft
-World of Beer in Skytree
-Hofbrauhaus Shibuya
+* Hitachino Brewing Lab
+* Spring Valley Brewery
+* Asahi Beer Headquarters
+* Devilcraft
+* World of Beer in Skytree
+* Hofbrauhaus Shibuya
 
   
 
