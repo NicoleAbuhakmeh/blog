@@ -24,6 +24,7 @@ subtitle: Welcome Wanderer!
 
 I always love to talk about travel, contact me if you have questions about any travel plans that take you to any of these spots too! 
 
+- South Africa stops in Cape Town, Cape of Good Hope, Johannesburg and Dinokeng Game Reserve (May 2019)
 - China with stops in Beijing, Xi'an, Suzhou, Wuxi, Hangzhou and Shanghai (Feb 2019)
 - Prague (January 2019)
 - Ireland & Northen Ireland (Nov 2018)
