@@ -20,7 +20,7 @@ subtitle: Welcome Wanderer!
 
 # Where have my travels taken me internationally? 
 
-![Image of World Map](https://nicoleabuhakmeh.github.io/img/WorldcountryMap.jpg)
+![Image of World Map](https://nicoleabuhakmeh.github.io/img/WorldcountryMap.png)
 
 I always love to talk about travel, contact me if you have questions about any travel plans that take you to any of these spots too! 
 
