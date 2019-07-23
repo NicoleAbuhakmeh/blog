@@ -54,6 +54,10 @@ I always love to talk about travel, contact me if you have questions about any t
 
 # United States based travel map
 I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via RV! 
+
+Upcoming travel: 
+- Illinois - Aug 2019
+- Hawaii - Nov 2019
 ![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/USAMapChart.jpg)
 
  [You can make your own travel map here!](https://www.amcharts.com)
