@@ -6,13 +6,21 @@ subtitle: Welcome Wanderer!
 ---
 # Things to know about me 
 
-- My passion is traveling. It's what drives me and gets me through my downtimes. Pretty sure my Grandfather is the reason I can't sit still. 
+- My passport is my most prized possession. It's my license to explore the world!
+
+- I've recently found an aerial yoga class near me and - I LOVE IT! 
+
 - I am on a search to find the best sour beers this world has to offer. [Find me on Untappd - nicoleabuhakmeh](http://untpd.it/u/Nicoleabuhakmeh)
+
 - My teenager [Bryn](https://www.instagram.com/bbbrrryyynnnnnn) is finally understanding that there is a world out there beyond Snapchat! Her passport has 3 stamps and more pending! 
-- My home office is filled with trinkets that I refuse to part with from our travels including a voodoo doll from cajun country, wooden tulips from Holland, lava rocks from Iceland and seashells from the Caymans. 
+
+- My home office is filled with trinkets that I refuse to part with from our travels including a voodoo doll from NOLA, wooden tulips from Holland, lava rocks from Iceland, seashells from the Caymans and an ostrich eggshell from South Africa. 
+
 - "Nothing compares to the excitement of exploring every corner of the earth with the person you love most by your side." Thankfully I've got [My husband, Khalid](https://twitter.com/buhakmeh) with me to figure out this path. 
+
 - I make my living in educational software development, on the business side. Someone has to write the documentation and test the code, right?!
-- These two are my furbabies.  Samson and Guinness aka Lil' G. Samson is my big mastiff english bulldog mix and Lil' G, well we're not so sure. We believe is part beagle, shar pei, hound and general monster.  
+
+- These two are my furbabies.  Samson and Guinness aka Lil' G. Samson is my big mastiff english bulldog mix and Lil' G, well we're not so sure. We believe he is part beagle, shar pei, hound and general monster.  
 ![Image of samson and Guinness](https://nicoleabuhakmeh.github.io/img/SamsonGuinness.png)
 
 
@@ -45,7 +53,7 @@ I always love to talk about travel, contact me if you have questions about any t
 
 
 # United States based travel map
-I won't count the state if I was only in the airport there.  
+I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via RV! 
 ![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/USAMapChart.jpg)
 
  [You can make your own travel map here!](https://www.amcharts.com)
