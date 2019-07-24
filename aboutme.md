@@ -30,7 +30,7 @@ subtitle: Welcome fellow wanderer!
 
 ![Image of World Map](https://nicoleabuhakmeh.github.io/img/WorldcountryMap.png)
 
-I am always up for a chat about travel! Are you going somehwere I've been? Tweet me [@nicoleabuhakmeh] (https://twitter.com/nicoleabuhakmeh) if you have any travel plans that take you to any of these spots too! 
+I am always up for a chat about travel! Are you going somehwere I've been? Tweet me [@nicoleabuhakmeh](https://twitter.com/nicoleabuhakmeh) if you have any travel plans that take you to any of these spots too! 
 
 - South Africa stops in Cape Town, Cape of Good Hope, Johannesburg and Dinokeng Game Reserve (May 2019)
 - China with stops in Beijing, Xi'an, Suzhou, Wuxi, Hangzhou and Shanghai (Feb 2019)
