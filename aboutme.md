@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Get to know me!
 subtitle: Welcome fellow wanderer! 
 
 ---
