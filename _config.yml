@@ -17,7 +17,7 @@ baseurl: ""
 title: Wandering Lush
 
 # Short description of your site
-description: Travel and Lifestyle blog with a focus on International Travel and modest living. 
+description: Travel and Lifestyle blog with a focus on international travel and modest living. 
 
 # --- Navigation bar options --- #
 
@@ -54,7 +54,7 @@ author:
 #  xing: yourname      # eg. daattali
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
-#  instagram: yourname # eg. daattali
+instagram: nicoleabuhakmeh # eg. daattali
 #  youtube: yourlink   # eg. user/daattali or channel/daattali
 #  spotify: yourname   # eg. daattali
 #  telephone: yourphone   # eg. +14159998888
@@ -72,7 +72,7 @@ footer-links-active:
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
@@ -82,7 +82,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
