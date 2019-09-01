@@ -2,7 +2,7 @@
 layout: post
 title: "An Event Apart in Chicago"
 subtitle: "Sparking joy within yourself"
-bigimg: /img/Chicago.jpg
+bigimg: /img/Chicago.JPG
 ---
 # Professional Development 
 
@@ -16,9 +16,7 @@ Recently I feel as if i've been in a professional rut. I like what I do at work,
 
 
 ## An Event Apart ##
-Topics: 
 
-* Design
-* Inclusion
+More to come! 
 
 
