@@ -53,13 +53,13 @@ Are you going somewhere I've been? Tweet me [@nicoleabuhakmeh](https://twitter.c
 
 
 # United States Travel!
-I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via RV! 
+I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via RV! Only 15 left to go!
 
 Upcoming US travel: 
 
 - Hawaii: Nov 2019
 
-![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/USAMapChart.jpg)
+![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/MapUSA.png)
 
  [You can make your own travel map here!](https://www.amcharts.com)
 
