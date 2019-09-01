@@ -4,7 +4,7 @@ title: Hey. I'm Nicole!
 subtitle: 
 
 ---
-# Things to know about me 
+# About me 
 
 - My passport is my most prized possession. It's my license to explore the world!
 
@@ -26,7 +26,7 @@ subtitle:
 
 
 
-# Where have my travels taken me internationally? 
+# International Travel!
 
 ![Image of World Map](https://nicoleabuhakmeh.github.io/img/WorldcountryMap.png)
 
@@ -52,12 +52,11 @@ Are you going somewhere I've been? Tweet me [@nicoleabuhakmeh](https://twitter.c
 - Germany
 
 
-# United States based travel map
+# United States Travel!
 I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via RV! 
 
 Upcoming US travel: 
 
-- Illinois: Aug 2019
 - Hawaii: Nov 2019
 
 ![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/USAMapChart.jpg)
