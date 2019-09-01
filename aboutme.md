@@ -4,7 +4,7 @@ title: Hey. I'm Nicole!
 subtitle: 
 
 ---
-# About me 
+# Who am I? 
 
 - My passport is my most prized possession. It's my license to explore the world!
 
