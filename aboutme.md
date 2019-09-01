@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Get to know me!
-subtitle: Welcome fellow wanderer! 
+title: Hey. I'm Nicole!
+subtitle: 
 
 ---
 # Things to know about me 
