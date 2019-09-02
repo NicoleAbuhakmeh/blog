@@ -8,6 +8,8 @@ subtitle:
 - My passport is my most prized possession. It's my license to explore the world!
 
 - I've recently found an aerial yoga class near me and - I LOVE IT! 
+![Image of Nicole Aerial Yoga](https://nicoleabuhakmeh.github.io/img/NicoleAerialYoga.JPG)
+
 
 - I am on a search to find the best sour beers this world has to offer. [Find me on Untappd - nicoleabuhakmeh](http://untpd.it/u/Nicoleabuhakmeh)
 
