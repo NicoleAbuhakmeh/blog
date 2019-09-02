@@ -15,14 +15,14 @@ subtitle:
 
 - My teenager [Bryn](https://www.instagram.com/bbbrrryyynnnnnn) is finally understanding that there is a world out there beyond Snapchat! Her passport has 3 stamps and more pending! 
 
-![Image of Bryn](https://nicoleabuhakmeh.github.io/img/Bryn.jpg)
+![Image of Bryn](https://nicoleabuhakmeh.github.io/img/Bryn.png)
 
 
 - My home office is filled with trinkets that I refuse to part with from our travels including a voodoo doll from NOLA, wooden tulips from Holland, lava rocks from Iceland, seashells from the Caymans and an ostrich eggshell from South Africa. 
 
 - "Nothing compares to the excitement of exploring every corner of the earth with the person you love most by your side." Thankfully I've got [My husband, Khalid](https://twitter.com/buhakmeh) with me to figure out this path. 
 
-![Image of Khalid and Nicole in Chicago](https://nicoleabuhakmeh.github.io/img/NicoleKhalidChicago.jpg)
+![Image of Khalid and Nicole in Chicago](https://nicoleabuhakmeh.github.io/img/NicoleKhalidChicago.png)
 
 
 - I make my living in educational software development, on the business side. Someone has to write the documentation and test the code, right?!
