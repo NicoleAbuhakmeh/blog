@@ -130,14 +130,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+# add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false
       googlefonts: ["Swanky and Moo Moo"]
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
