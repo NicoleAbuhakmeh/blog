@@ -104,7 +104,7 @@ google_analytics: "UA-42212516-2"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 100
+excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -137,7 +137,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: false
+      show-avatar: true
       googlefonts: ["Swanky and Moo Moo"]
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
