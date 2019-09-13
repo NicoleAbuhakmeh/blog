@@ -2,6 +2,7 @@
 layout: page
 title: Hey. I'm Nicole!
 subtitle: 
+bigimg:
 
 ---
 
