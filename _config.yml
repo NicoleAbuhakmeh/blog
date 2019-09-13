@@ -33,11 +33,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/Nicole.png"
+avatar: "/img/Nicole.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/Nicole.png"
+# title-img: "/img/Nicole.png"
 
 # --- Footer options --- #
 
@@ -91,7 +91,7 @@ url-pretty: "wanderinglush.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "wandering-lush"
+# disqus: "wandering-lush"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-42212516-2"
