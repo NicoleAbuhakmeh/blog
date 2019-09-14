@@ -2,6 +2,7 @@
 layout: page
 title: Randomness 
 subtitle: 
+bigimg: /img/Safarisunset.png	
 
 ---
 
