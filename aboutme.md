@@ -2,7 +2,7 @@
 layout: page
 title: Hey. I'm Nicole!
 subtitle: 
-bigimg:
+bigimg: /img/NicoleKhalidlondon.png
 
 ---
 
