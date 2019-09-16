@@ -206,7 +206,7 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 100px;
-    margin-top: -30px;
+    margin-top: -20px;
   }
   
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -371,7 +371,7 @@ footer .theme-by {
 .post-image {
   flex: 2;
   width: 192px;  
-  filter: grayscale(90%);
+  filter: grayscale(40%);
   align-items: center;
   margin: auto;
 }
