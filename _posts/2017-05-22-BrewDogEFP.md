@@ -25,6 +25,8 @@ As an [Equity for Punks Shareholder of BrewDog](https://www.brewdog.com/usa/equi
 
 I am stoked to have found this awesome opportunity to be a part of an awesome brewery that I believe in! 
 
-![Image of Brewdog](https://nicoleabuhakmeh.github.io/img/BrewDogEFP.png)
+
+{% picture /img/BrewDogEFP.png --alt Brewdog %}
+
    
 Stay tuned for my updates as I put my shares to good use! Cheers!
