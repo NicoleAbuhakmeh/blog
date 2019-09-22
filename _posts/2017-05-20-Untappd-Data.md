@@ -16,7 +16,9 @@ That's where [my lovely supportive husband](https://twitter.com/buhakmeh) came i
 series of maps and graphs with Google DataStudio.  This is when he started calling me his Lush, lovingly.  I'd deny it, but the data 
 doesn't lie. 
 
-![untappd data dashboard](https://nicoleabuhakmeh.github.io/img/untappddata.png)
+
+{% picture /img/untappddata.png --alt untappd %}
+
 
 This is a snapshot of my Untappd stats.  [Find me & Let's be friends!](https://untappd.com/user/Nicoleabuhakmeh)
 
