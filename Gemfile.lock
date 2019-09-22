@@ -166,6 +166,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 106)
   jekyll-paginate
+  jekyll-sitemap
   jekyll_picture_tag
 
 BUNDLED WITH
