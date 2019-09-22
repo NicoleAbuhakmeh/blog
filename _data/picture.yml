@@ -1,0 +1,5 @@
+markup_presets:
+  thumbnail:
+    base_width: 200 # How wide the 1x image should be
+    pixel_ratios: [1]
+    fallback_width: 200

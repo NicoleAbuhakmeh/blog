@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '106'
-gem 'jekyll-paginate'
-gem 'jekyll_picture_tag'
+group :jekyll_plugins do
+  gem 'jekyll_picture_tag'
+  gem 'jekyll-paginate'
+  gem 'github-pages', '106'
+end
