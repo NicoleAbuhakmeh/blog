@@ -133,4 +133,4 @@ Some of the other places I was able to visit:
 It’s a beautiful country that is polite and clean! Don’t worry about the language barrier issue. Most everyone has a smartphone these days with a translation app. Even if you can’t say the words, you can just show the phone to the restaurant worker or transportation agent - they will get you what you want or to where you want to go. Until next time!
 
 {% picture /img/CoupleshotsJapan.JPG --alt Us In Japan %}
-{% picture /img/CoupleshotsJapan2.JPG --alt Us In Japan %}
+{% picture /img/CoupleshotsJapan2.jpg --alt Us In Japan %}
