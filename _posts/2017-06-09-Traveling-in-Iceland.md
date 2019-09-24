@@ -10,20 +10,20 @@ On a whim the husband and I decided to give Iceland a try.  WowAir lines was new
 I wasn’t sure what to expect. We’ve all seen the bucketlist photos of the Blue Lagoon,  Gulfoss &  Glacier lagoon, but let me tell you… Nothing prepares you for the pure natural beauty that Iceland has to offer. NOTHING. Ok, maybe childbirth, but still it’s just as inspiring.
 
 {% picture /img/Iceland_wowairlines_legroom.JPG --alt Wow airlines %}
-<i>Wow. WowAirlines Legroom really is pretty awesome when you're in an exit row.</i>
+<i> WowAirlines Legroom really is pretty awesome when you're in an exit row.</i>
 
 We stepped off the plane at 4am Iceland time into a dreary yet magical world. Daylight was just starting to break as we picked up our tiny little manual rental car.  A shiny red Chevy Spark that was appropriate for maybe someone of my height (5’3) but not my husband’s 6’2 self.  We managed to pack ourselves & gear in the little beast for our 5-day adventure! 
 {% picture /img/Iceland_Chevy_Spark.JPG --alt Chevy Spark %}
-<I> I think next time we'll upgrade our car too, but this little baby managed to do the trick for our few days. </i>
+<i> I think next time we'll upgrade our car too, but this little baby managed to do the trick for our few days. </i>
 
 Car tip: Something we take for granted in the US is the use of our debit cards for any purchase from a few cents to as much as you can spend in your bank account.  European counties have had the chip and pin long before it was rolled out here.  We didn’t realize this before our trip. Enter in the exhausting ritual of buying a preloaded gas station ‘gift card’ for the amount of gas we may need to purchase in our rental.  Another car tip: Stop for gas when you’re below a half tank, just in case. 
 
-Our first stop was of course the [Blue Lagoon](http://www.bluelagoon.com/), what better way to kick off a vacation than a spa day. I had done a little research on what to expect at the bathhouse. I knew I had to shower <i>naked</i> making careful care to wash my hair of any products. What I did not do is share this knowledge with my husband.  ☺
+Our first stop was of course the [Blue Lagoon](http://www.bluelagoon.com/), what better way to kick off a vacation than a spa day. I had done a little research on what to expect at the bathhouse. I knew I had to shower <i>naked</i> making careful care to wash my hair of any products. What I did not do is share this knowledge with my husband. (oops!)
 
 Sightseeing tip: I would say that lounging in the Blue Lagoon is a one and done experience. It’s warm and milky blue.  That was most of the appeal, especially to a former farm girl from rural Pennsylvania.  For me, it was a bit over priced (99 Euro/per person in the shoulder season) for only spending about 30 minutes in the water and a total of about 70 at the location.  You are welcome to spend the whole day with your entrance ticket, but I think maybe 2 hours total is more than enough to allot for your visit. 
 
 {% picture /img/Iceland_Blue_Lagoon_1.JPG --alt Blue Lagoon %}
-<i> Blue Lagoon. It seemed like a place out of a dream!</i>
+<i> Blue Lagoon. It seemed like a place out of a dream! </i>
 
 {% picture /img/Iceland_Blue_Lagoon_2.jpg --alt Blue Lagoon %}
 <i> Milky blue waters all around the soaking lagoon. </i>
@@ -35,7 +35,7 @@ Hotel tip: If you are looking for a hotel with free parking, a great starting lo
 
 
 {% picture /img/Hekla_Hotel_Bar.JPG --alt Helka %}
-<i>Hekla @ Radisson Blu (If you see Hekla tip her well, she’s an awesome chick!) </i>
+<i> Hekla @ Radisson Blu (If you see Hekla tip her well, she’s an awesome chick!) </i>
 
 
 Food tip: It was a vacation so we didn’t think to set an alarm to wake up at a certain time after a nap, and we ended up sleeping through dinnertime. If you think Reykjavik would be one of those cities that doesn’t follow the traditional opening and closing times, you would be as wrong –as I was.  ☹ Hangry Niks is not a good travel partner.  It was close to 9pm as we stumbled upon our salvation.  An Icelandic Pho shop called [Noodle Station](http://www.noodlestation.is/) was the only place still open – It’ll have to do.  And do it did – It still ranks high up on my Pho experiences.  They had a tasty broth with the traditional mix-ins. It really hit the spot after rainy night’s walk through the city. 
@@ -44,7 +44,7 @@ Food tip: It was a vacation so we didn’t think to set an alarm to wake up at a
 So, what about the food? Yes, we had the fermented shark and the shot of Black Death as tourists are told to do. We had the hotdog, not great. With being in the Artic, I knew I had to find good fish and chips while I was there, but I also wanted to try the Icelandic versions of some American favorites.   While we were out exploring the countryside we didn’t come across too choices. We came across an “American” Burger joint the first day while about an hour outside of Reykjavik. The burger was slightly strange with a slight taste of onions without any onions actually being on the burger. They served it with french fries and ketchup. Something else I forgot since it had been so long since I was in Europe, was how much paprika is in their version of ketchup.  It was an off-putting eating experience, but I was determined to not let this ruin my growing love for Iceland.   The pizza I had later in the week more than made up for how they interpret American food.  
 
 {% picture /img/Iceland_Pizza.JPG --alt Pizza %}
-American Pepperoni Pizza but i'm pretty sure it was not really pepperoni, still tasty. </i>
+<i> American Pepperoni Pizza. I'm pretty sure it was not really pepperoni, but it was still tasty. </i>
 
 
 {% picture /img/Iceland_fish_and_chips.JPG --alt Fish and Chips %}
@@ -53,7 +53,7 @@ American Pepperoni Pizza but i'm pretty sure it was not really pepperoni, still 
 
 The absolute best thing I ate in Iceland was in the City Center of Reykjavik in front of  Hallgrimskirkja – A Belgian waffle with a light Nutella spread.  Warm, fresh & delicious! 
 {% picture /img/Iceland_waffle.jpg --alt Waffles in Iceland %}
-Warming up with a fresh waffle on a cold rainy day </i>
+<i> Warming up with a fresh waffle on a cold rainy day </i>
 
 {% picture /img/Blueberry_Muffin_Airport.png --alt Joe and the Juice %} 
 <i>Joe & the Juice, right in the airport before you leave, grab one – you won’t be sorry! I never knew a blueberry cheesecake muffin could be so pink! </i>
@@ -97,18 +97,23 @@ Small list of some of the places we went:
 {% picture /img/Iceland_sights_4.jpg --alt Iceland %}
 <i>Kreid is pretty awesome!  </i>
 
+
 {% picture /img/Iceland_sights_9.jpg --alt Iceland %}
 <i>The hike to the top was pretty intense. I was pretty sure I wasn't going to make it. </i>
+
 
 {% picture /img/Icelandic_Selfie.PNG --alt Icelandic Selfie %}
 <i>Khalid & I took a selfie. Traveling to Iceland really ages you. ☺</i>
 
+
 {% picture /img/Reykavik_sights_Penis_Museum.jpg --alt Penus Museum %}
 <i>No, sorry Richard isn't here... </i>
 
-{% picture /img/Reykjavik_sights_Helmet.jpg --alt Reykjavik sights Helmet %}
 
+{% picture /img/Reykjavik_sights_Helmet.jpg --alt Reykjavik sights Helmet %}
 <i>This sucker was really on tight.</i>
+
+
 {% picture /img/Reykjavik_sights_Single_Gloves.jpg --alt Reykjavik sights Single Gloves %}
 
 
