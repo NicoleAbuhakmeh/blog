@@ -13,7 +13,6 @@ I wasn’t sure what to expect. We’ve all seen the bucketlist photos of the Bl
 <i>Wow. WowAirlines Legroom really is pretty awesome when you're in an exit row.</i>
 
 We stepped off the plane at 4am Iceland time into a dreary yet magical world. Daylight was just starting to break as we picked up our tiny little manual rental car.  A shiny red Chevy Spark that was appropriate for maybe someone of my height (5’3) but not my husband’s 6’2 self.  We managed to pack ourselves & gear in the little beast for our 5-day adventure! 
-
 {% picture /img/Iceland_Chevy_Spark.JPG --alt Chevy Spark %}
 <I> I think next time we'll upgrade our car too, but this little baby managed to do the trick for our few days. </i>
 
@@ -23,7 +22,7 @@ Our first stop was of course the [Blue Lagoon](http://www.bluelagoon.com/), what
 
 Sightseeing tip: I would say that lounging in the Blue Lagoon is a one and done experience. It’s warm and milky blue.  That was most of the appeal, especially to a former farm girl from rural Pennsylvania.  For me, it was a bit over priced (99 Euro/per person in the shoulder season) for only spending about 30 minutes in the water and a total of about 70 at the location.  You are welcome to spend the whole day with your entrance ticket, but I think maybe 2 hours total is more than enough to allot for your visit. 
 
-{% picture /img/Iceland_Blue_Lagoon_1.jpg --alt Blue Lagoon %}
+{% picture /img/Iceland_Blue_Lagoon_1.JPG --alt Blue Lagoon %}
 <i> Blue Lagoon. It seemed like a place out of a dream!</i>
 
 {% picture /img/Iceland_Blue_Lagoon_2.jpg --alt Blue Lagoon %}
