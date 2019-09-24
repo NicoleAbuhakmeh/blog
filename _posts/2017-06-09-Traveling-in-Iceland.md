@@ -126,7 +126,7 @@ We paid our bar tab damage and started to wander back to our hotel.  That’s wh
 I should mention here that we were in Iceland for the very beginning of Northern Light /Aurora Borealis viewing season. The weather had been so finicky our entire trip with a glimpse of sun in-between rain showers and snow squalls that we had given up hope of any dancing light shows.   
 
 But there she was dancing in the sky above us.  It was just another beautiful and breathtaking moment in a country chocked full of them.  I may have let all of Iceland know we were watching them too.  Imagine the story of Paul Revere and his midnight ride, except it was 2 very tipsy American fools cooing about the light show above us.  I may have tripped over a curb or two as my head was completely focused on the sky for our quarter of a mile walk. I wanted to watch every second of it! 
-{% picture /img/NorthernLights.JPG --alt Northern Lights %}
+{% picture /img/Northern_Lights.JPG --alt Northern Lights %}
 
 {% picture /img/NorthernLights2.JPG --alt Northern Lights  %}
 
