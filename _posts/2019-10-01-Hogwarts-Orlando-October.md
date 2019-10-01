@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Hogwarts! Here I come!"
-subtitle: "Orlando in October"
+subtitle: "Visiting Orlando in October"
 bigimg: /img/Hogwarts.png
 ---
 
-# Orlando in October
+# “Yer a wizard Harry.” 
 
 
 Over the summer I found myself deep into a Harry Potter marathon and wanderlusting a trip to the Hogswarts.  The closest I can get to a letter to Hogwarts is visiting Hogsmeade at Universal in Orlando.  Sadly, we won't get to take the train from 9 3/4 platform to get there.  We'll be flying [Allegiant](https://allegiantair.com) non-stop from Harrisburg, Pennsylvania to Sanford, Florida. 😀
