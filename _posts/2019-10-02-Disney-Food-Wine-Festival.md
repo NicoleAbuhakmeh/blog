@@ -28,9 +28,8 @@ Food: $11.00
 - [ ] Jerk-spiced Chicken with Roasted Sweet Plantain Salad and Mango Chutney Yogurt
 
 The Donut Box - SNACK/DRINK
-Food: ?
+Food/Drink: ?
 - [ ] Sweet Corn Fritter with Fresno and Red Pepper Jelly
-Drink: ?
 - [ ] Central 28 Beer Company Boston Cream Donut Ale
 
 The Alps - DESSERT
@@ -59,11 +58,10 @@ Drink: $4.50
 
 Appleseed Orchard CIDER Bar - SNACK
 Drink: $19.50	
-Beer:
+Beer/Cider:
 - [ ] M.I.A. Beer Company Apple Trappe Belgian-Style Tripel Ale, Doral, FL
 - [ ] Playalinda Brewing Co. Apple Pie Beer, Titusville, FL
 - [ ] Sea Dog Brewing Co. Green Apple Ale, Clearwater, FL
-Cider: 
 - [ ] Ciderboys Lemon Cello Hard Cider, Stevens Point, WI
 - [ ] Collective Arts Brewing Cherry Apple Hard Cider, Canada
 - [ ] Woodchuck Hard Cider Spiced Apple, Middlebury, VT
