@@ -5,7 +5,6 @@ subtitle: "2019 Food & Wine Festival"
 bigimg: /img/EpcotLakeNight.png
 ---
 
-# Epcot's Food & Wine 2019
 
 If we're already going to be in Orlando during the festival and we have a free day - let's try some of the awesome dishes available during the 
 [Disney's Food and Wine Festival!](https://disneyworld.disney.go.com/dining/epcot/food-wine-marketplaces/) 
@@ -28,7 +27,7 @@ Food: $11.00
  - [ ] Jerk-spiced Chicken with Roasted Sweet Plantain Salad and Mango Chutney Yogurt
 
 The Donut Box - SNACK/DRINK
-Food/Drink: ?
+ Food/Drink: ?
  - [ ] Sweet Corn Fritter with Fresno and Red Pepper Jelly
  - [ ] Central 28 Beer Company Boston Cream Donut Ale
 
@@ -57,7 +56,7 @@ Drink: $4.50
  - [ ] Collective Arts Brewing Saint of Circumstance Citrus Blonde
 
 Appleseed Orchard CIDER Bar - SNACK
-Drink: $19.50	
+ Drink: $19.50	
 Beer/Cider:
  - [ ] M.I.A. Beer Company Apple Trappe Belgian-Style Tripel Ale, Doral, FL
  - [ ] Playalinda Brewing Co. Apple Pie Beer, Titusville, FL
