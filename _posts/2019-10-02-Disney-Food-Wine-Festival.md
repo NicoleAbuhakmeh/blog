@@ -18,46 +18,57 @@ Between dealing with the lines from every member of every family *ever* being on
 
 ### I'm excited to try these: 
 
-Shimmering Sips - DRINK
-* Mimosa Flight
+- Shimmering Sips - DRINK
 
-Islands of the Caribbean - FOOD
-* Ropa Vieja Empanada with Tomato Aïoli
-* Jerk-spiced Chicken with Roasted Sweet Plantain Salad and Mango Chutney Yogurt
+ Mimosa Flight
 
-The Donut Box - SNACK/DRINK
-* Sweet Corn Fritter with Fresno and Red Pepper Jelly
-* Central 28 Beer Company Boston Cream Donut Ale
+- Islands of the Caribbean - FOOD
 
-The Alps - DESSERT
-* Blueberry and Almond Frangipane Tart with Crème Fraîche & Almonds	
+Ropa Vieja Empanada with Tomato Aïoli
+Jerk-spiced Chicken with Roasted Sweet Plantain Salad and Mango Chutney Yogurt
 
-Japan - FOOD
-* Frothy Ramen: Chilled Noodles and Dashi Broth with a Light Foam
+- The Donut Box - SNACK/DRINK
 
-Morocco - DESSERT
-* Chocolate Baklava: with Toasted Almonds  Dark Chocolate Sauce
+Sweet Corn Fritter with Fresno and Red Pepper Jelly
+Central 28 Beer Company Boston Cream Donut Ale
 
-Belgium - DESSERT
-* Golden Malted® Waffle with Chocolate Ganache & Whipped Cream
+- The Alps - DESSERT
 
-Ireland - DESSERT
-* Warm Chocolate Pudding with Irish Cream Liqueur Custard
+Blueberry and Almond Frangipane Tart with Crème Fraîche & Almonds	
 
-Canada - DRINK
-* Collective Arts Brewing Saint of Circumstance Citrus Blonde
+- Japan - FOOD
 
-Appleseed Orchard CIDER Bar - SNACK/DRINKS
-* M.I.A. Beer Company Apple Trappe Belgian-Style Tripel Ale, Doral, FL
-* Playalinda Brewing Co. Apple Pie Beer, Titusville, FL
-* Sea Dog Brewing Co. Green Apple Ale, Clearwater, FL
-* Ciderboys Lemon Cello Hard Cider, Stevens Point, WI
-* Collective Arts Brewing Cherry Apple Hard Cider, Canada
-* Woodchuck Hard Cider Spiced Apple, Middlebury, VT
-* Caramel-Apple Popcorn
+Frothy Ramen: Chilled Noodles and Dashi Broth with a Light Foam
 
-The Chocolate Studio - DESSERT
-* Liquid Nitro Chocolate-Almond Truffle with Warm Whiskey-Caramel
+- Morocco - DESSERT
+
+Chocolate Baklava: with Toasted Almonds  Dark Chocolate Sauce
+
+- Belgium - DESSERT
+
+Golden Malted® Waffle with Chocolate Ganache & Whipped Cream
+
+- Ireland - DESSERT
+
+Warm Chocolate Pudding with Irish Cream Liqueur Custard
+
+- Canada - DRINK
+
+Collective Arts Brewing Saint of Circumstance Citrus Blonde
+
+- Appleseed Orchard CIDER Bar - SNACK/DRINKS
+
+M.I.A. Beer Company Apple Trappe Belgian-Style Tripel Ale, Doral, FL
+Playalinda Brewing Co. Apple Pie Beer, Titusville, FL
+Sea Dog Brewing Co. Green Apple Ale, Clearwater, FL
+Ciderboys Lemon Cello Hard Cider, Stevens Point, WI
+Collective Arts Brewing Cherry Apple Hard Cider, Canada
+Woodchuck Hard Cider Spiced Apple, Middlebury, VT
+Caramel-Apple Popcorn
+
+- The Chocolate Studio - DESSERT
+
+Liquid Nitro Chocolate-Almond Truffle with Warm Whiskey-Caramel
 
 
 
