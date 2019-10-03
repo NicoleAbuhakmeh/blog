@@ -20,57 +20,57 @@ Between dealing with the lines from every member of every family *ever* being on
 
 Shimmering Sips - DRINK
 Drink: $13.00
-- [ ] Mimosa Flight
+ - [ ] Mimosa Flight
 
 Islands of the Caribbean - FOOD
 Food: $11.00
-- [ ] Ropa Vieja Empanada with Tomato Aïoli
-- [ ] Jerk-spiced Chicken with Roasted Sweet Plantain Salad and Mango Chutney Yogurt
+ - [ ] Ropa Vieja Empanada with Tomato Aïoli
+ - [ ] Jerk-spiced Chicken with Roasted Sweet Plantain Salad and Mango Chutney Yogurt
 
 The Donut Box - SNACK/DRINK
 Food/Drink: ?
-- [ ] Sweet Corn Fritter with Fresno and Red Pepper Jelly
-- [ ] Central 28 Beer Company Boston Cream Donut Ale
+ - [ ] Sweet Corn Fritter with Fresno and Red Pepper Jelly
+ - [ ] Central 28 Beer Company Boston Cream Donut Ale
 
 The Alps - DESSERT
 Food: $4.50
-- [ ] Blueberry and Almond Frangipane Tart with Crème Fraîche & Almonds	
+ - [ ] Blueberry and Almond Frangipane Tart with Crème Fraîche & Almonds	
 
 Japan - FOOD
 Food: $6.00
-- [ ] Frothy Ramen: Chilled Noodles and Dashi Broth with a Light Foam
+ - [ ] Frothy Ramen: Chilled Noodles and Dashi Broth with a Light Foam
 
 Morocco - DESSERT
 Food: $4.50
-- [ ] Chocolate Baklava: with Toasted Almonds  Dark Chocolate Sauce
+ - [ ] Chocolate Baklava: with Toasted Almonds  Dark Chocolate Sauce
 
 Belgium - DESSERT
 Food: $4.25
-- [ ] Golden Malted® Waffle with Chocolate Ganache & Whipped Cream
+ - [ ] Golden Malted® Waffle with Chocolate Ganache & Whipped Cream
 
 Ireland - DESSERT
 Food: $ 4.25
-- [ ] Warm Chocolate Pudding with Irish Cream Liqueur Custard
+ - [ ] Warm Chocolate Pudding with Irish Cream Liqueur Custard
 
 Canada - DRINK
 Drink: $4.50
-- [ ] Collective Arts Brewing Saint of Circumstance Citrus Blonde
+ - [ ] Collective Arts Brewing Saint of Circumstance Citrus Blonde
 
 Appleseed Orchard CIDER Bar - SNACK
 Drink: $19.50	
 Beer/Cider:
-- [ ] M.I.A. Beer Company Apple Trappe Belgian-Style Tripel Ale, Doral, FL
-- [ ] Playalinda Brewing Co. Apple Pie Beer, Titusville, FL
-- [ ] Sea Dog Brewing Co. Green Apple Ale, Clearwater, FL
-- [ ] Ciderboys Lemon Cello Hard Cider, Stevens Point, WI
-- [ ] Collective Arts Brewing Cherry Apple Hard Cider, Canada
-- [ ] Woodchuck Hard Cider Spiced Apple, Middlebury, VT
+ - [ ] M.I.A. Beer Company Apple Trappe Belgian-Style Tripel Ale, Doral, FL
+ - [ ] Playalinda Brewing Co. Apple Pie Beer, Titusville, FL
+ - [ ] Sea Dog Brewing Co. Green Apple Ale, Clearwater, FL
+ - [ ] Ciderboys Lemon Cello Hard Cider, Stevens Point, WI
+ - [ ] Collective Arts Brewing Cherry Apple Hard Cider, Canada
+ - [ ] Woodchuck Hard Cider Spiced Apple, Middlebury, VT
 Food: $10.00
-- [ ] Caramel-Apple Popcorn
+ - [ ] Caramel-Apple Popcorn
 
 The Chocolate Studio - DESSERT
 Food: $5.25
-- [ ]  Liquid Nitro Chocolate-Almond Truffle with Warm Whiskey-Caramel
+ - [ ]  Liquid Nitro Chocolate-Almond Truffle with Warm Whiskey-Caramel
 
 
 
