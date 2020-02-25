@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "I Heart Maps"
+title: 
 subtitle: 
 bigimg: /img/Caymansunsets.png
 ---
@@ -11,6 +11,12 @@ bigimg: /img/Caymansunsets.png
 ![Image of World Map](https://nicoleabuhakmeh.github.io/img/WorldcountryMap.png)
 
 Are you going somewhere I've been? Tweet me [@nicoleabuhakmeh](https://twitter.com/nicoleabuhakmeh) if you have any travel plans that take you to any of these spots too! I am always up for a chat about travel! 
+
+Upcoming in 2020:
+
+* Greece
+* Peru
+* Russia
 
 - South Africa stops in Cape Town, Cape of Good Hope, Johannesburg and Dinokeng Game Reserve (May 2019)
 - China with stops in Beijing, Xi'an, Suzhou, Wuxi, Hangzhou and Shanghai (Feb 2019)
@@ -25,20 +31,17 @@ Are you going somewhere I've been? Tweet me [@nicoleabuhakmeh](https://twitter.c
 - Canada with stops in Vancouver, Yukon, Niagara Falls and Toronto (May 2016, Jul 2017, Dec 2010)
 - Japan with stops in Tokyo, Kamakura, Nagano (Apr 2017)
 - Italy with stops in Venice, Florence & Rome (Feb 2017)
-- Vatican City (This counts! It's defined as a separate country inside Italy!)
+- Vatican City (Feb 2017)
 - Jamaica (Nov 2016)
 - Iceland (Oct 2015)
-- Luxembourg
-- Germany
+- Luxembourg (2001)
+- Germany (2001)
 
 
 # United States Travel!
-I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via RV! Only 15 left to go!
+I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via Van-life!
 
-Upcoming US travel: 
-
-- Hawaii: Nov 2019
 
 ![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/MapUSA.png)
 
- [You can make your own travel map here!](https://www.amcharts.com)
+
