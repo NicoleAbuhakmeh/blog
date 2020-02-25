@@ -20,16 +20,16 @@ There have been many laughs when it comes to the stories about the van since he 
 My mom would chime in to say that she often didn't know my whereabouts either when it came to the adventures I would go on with my grandfather.
 
 I can remember a few trips:
- - Ontario & Niagara Falls
- - Virginia 
- - A family reunion in Tennessee (turns out, it wasn't our family!)
- - Columbus, Ohio 
+
+ * Ontario & Niagara Falls
+ * Virginia 
+ * A family reunion in Tennessee (turns out, it wasn't our family!)
+ * Columbus, Ohio 
 
 
 There was something about the way that van made my grandpa smile that stays with me today. 
 
-
-{ % picture/img/GrandpaGeorge.png %}
+{% picture/img/GrandpaGeorge.png --alt Grandpa George %}
 
 I feel i'm missing that kind of smile in my life, which is why I'm thinking about living the Van-life. 
 
