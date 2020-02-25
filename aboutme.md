@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hey. I'm Nicole!
+title: 
 subtitle:
 bigimg: /img/Aboutme.png
 ---
