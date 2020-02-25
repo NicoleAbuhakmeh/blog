@@ -17,13 +17,13 @@ baseurl: ""
 title: Wandering Lush
 
 # Short description of your site
-description: Travel and Lifestyle blog with a focus on international travel and modest living.
+description: Travel and Lifestyle blog with a focus on international travel and Vanlife living.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  My Travels: "Places I've been"
+  Plane Travels: "Places I've been"
   One Van Travels: "Van-life"
   Who am I?: "aboutme"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
