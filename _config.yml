@@ -23,7 +23,6 @@ description: Travel and Lifestyle blog with a focus on international travel and 
 
 # List of links in the navigation bar
 navbar-links:
-  Places Traveled: "PlacesTraveled"
   I Heart Maps: "Maps"
   One Van Travels: "OneVanTravels"
   Who am I?: "aboutme"
