@@ -1,21 +1,15 @@
 ---
 layout: page
-title: Randomness 
+title: One Van Travels 
 subtitle: 
 bigimg: /img/Safarisunset.png	
 
 ---
 
 
-- Dogs!
-- Mexican Food!
-- Tabletop games!
-- Maps!
-- Weather!
-- Sour Beers!
-- Orange color things!
-- Volkswagon Beetle Convertible!
-- Popcorn!
-- Tea > Coffee! 
-- Aerial Yoga! 
+Have you ever just wanted to get into the car and drive? 
+
+I have, which is why I'm thinking about living the Vanlife. 
+
+Stay tuned! 
 
