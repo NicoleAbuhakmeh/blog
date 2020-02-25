@@ -23,8 +23,8 @@ description: Travel and Lifestyle blog with a focus on international travel and 
 
 # List of links in the navigation bar
 navbar-links:
-  My Travels: "travels"
-  Randomness: "Randomness"
+  My Travels: "Places I've been"
+  One Van Travels: "Van-life"
   Who am I?: "aboutme"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
