@@ -5,18 +5,11 @@ subtitle:
 bigimg: /img/Iheartmaps.png
 ---
 
-
-# International Travel!
+## International Travel!
 
 ![Image of World Map](https://nicoleabuhakmeh.github.io/img/WorldcountryMap.png)
 
-Are you going somewhere I've been? Tweet me [@nicoleabuhakmeh](https://twitter.com/nicoleabuhakmeh) if you have any travel plans that take you to any of these spots too! I am always up for a chat about travel! 
-
-Upcoming in 2020:
-
-* Greece
-* Peru
-* Russia
+Are you going somewhere I've been? Tweet me [@nicoleabuhakmeh](https://twitter.com/nicoleabuhakmeh) if you have any travel plans that take you to any of these spots too! I am always up for a chat about travel!
 
 - South Africa stops in Cape Town, Cape of Good Hope, Johannesburg and Dinokeng Game Reserve (May 2019)
 - China with stops in Beijing, Xi'an, Suzhou, Wuxi, Hangzhou and Shanghai (Feb 2019)
@@ -37,8 +30,13 @@ Upcoming in 2020:
 - Luxembourg (2001)
 - Germany (2001)
 
+# Upcoming in 2020:
 
-# United States Travel!
+* Greece
+* Peru
+
+
+## United States Travel!
 I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via Van-life!
 
 
