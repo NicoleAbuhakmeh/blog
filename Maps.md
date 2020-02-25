@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Where has travel taken me?
+title: "I Heart Maps"
 subtitle: 
 bigimg: /img/Caymansunsets.png
 ---
