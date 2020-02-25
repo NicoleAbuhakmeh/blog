@@ -2,7 +2,7 @@
 layout: page
 title: Hey. I'm Nicole!
 subtitle:
-bigimg: /img/NicoleKhalidlondon.png
+bigimg: /img/Aboutme.png
 ---
 
 - My passport is my most prized possession. It's my license to explore the world!
