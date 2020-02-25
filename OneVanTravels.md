@@ -1,6 +1,6 @@
 ---
 layout: page
-title: One Van Travels
+title: 
 subtitle:
 bigimg: /img/OneVanTravels.png
 ---
