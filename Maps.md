@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle: 
-bigimg: /img/Iheartmaps.png
+bigimg: /img/Iheartmaps.jpg
 ---
 
 # International travel
