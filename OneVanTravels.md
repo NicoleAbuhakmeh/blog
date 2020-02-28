@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle:
-bigimg: /img/OneVanTravels.png
+bigimg: /img/OneVanTravels.jpg
 ---
 
 
