@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle:
-bigimg: /img/Aboutme.png
+bigimg: /img/Aboutme.jpg
 ---
 
 - My passport is my most prized possession. It's my license to explore the world!
