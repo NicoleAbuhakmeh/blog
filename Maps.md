@@ -7,7 +7,7 @@ bigimg: /img/Iheartmaps.jpg
 
 # International travel
 
-![Image of World Map](https://nicoleabuhakmeh.github.io/img/WorldcountryMap.png)
+![Image of World Map](/img/WorldcountryMap.png)
 
 Places I've explored:
 
@@ -39,7 +39,7 @@ Places I've explored:
 # United States travel
 I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via Van-life!
 
-![Image of United States Travel](https://nicoleabuhakmeh.github.io/img/MapUSA.png)
+![Image of United States Travel](/img/MapUSA.png)
 
 
 Are you going somewhere I've been? Tweet me [@nicoleabuhakmeh](https://twitter.com/nicoleabuhakmeh) if you have any travel plans that take you to any of these spots too! I am always up for a chat about travel!
