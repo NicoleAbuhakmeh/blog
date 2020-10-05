@@ -9,7 +9,7 @@ bigimg: /img/Aboutme.jpg
 
 - I've recently found an aerial yoga class near me and - I LOVE IT!
 
-{% picture /img/NicoleAerialYoga.JPG --alt Nicole Aerial Yoga %}
+{% picture /img/NicoleAerialYoga.png --alt Nicole Aerial Yoga %}
 
 - I am on a search to find the best sour beers this world has to offer. [Find me on Untappd - nicoleabuhakmeh](http://untpd.it/u/Nicoleabuhakmeh)
 
