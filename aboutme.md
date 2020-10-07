@@ -25,6 +25,6 @@ bigimg: /img/Aboutme.jpg
 
 - I make my living in educational software development, on the business side. Someone has to write the documentation and test the code, right?!
 
-- These two are my furbabies. Samson and Guinness aka Lil' G. Samson is my big mastiff english bulldog mix and Lil' G, well we're not so sure. We believe he is part beagle, shar pei, hound and general monster.
+- These two are my furbabies. Samson and Guinness aka Lil' G. Samson is my big mastiff english bulldog mix and Lil' G, well he's a Heinz 57!  We believe he is part beagle, shar pei, hound and general monster.
 
 {% picture /img/SamsonGuinness.png --alt Samson and Guinness Dogs %}
