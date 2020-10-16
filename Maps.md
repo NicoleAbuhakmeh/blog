@@ -32,12 +32,9 @@ Places I've explored:
 - Greece (March 2020, only 48 hours until the country shut down and we had to leave)
 
 ## Upcoming in 2020:
-
-* ~~Peru (June)
-* ~~Russia (Oct)
 All Travel was cancelled... 2020 was cancelled. 
 
-## Upcoming in 2021/Fingers crossed!: 
+## Upcoming in 2021: 
 * Peru (Jan)
 * Virgin Islands, St. Thomas (May)
 * Morrocco (Sept)
