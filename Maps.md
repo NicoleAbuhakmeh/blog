@@ -33,9 +33,14 @@ Places I've explored:
 
 ## Upcoming in 2020:
 
-* ~~Peru (June)~
-* ~~Russia (Oct)~
+* ~~Peru (June)
+* ~~Russia (Oct)
 All Travel was cancelled... 2020 was cancelled. 
+
+## Upcoming in 2021/Fingers crossed!: 
+* Peru (Jan)
+* Virgin Islands, St. Thomas (May)
+* Morrocco (Sept)
 
 # United States travel
 I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via Van-life!
