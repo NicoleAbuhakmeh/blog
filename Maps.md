@@ -29,12 +29,13 @@ Places I've explored:
 - Iceland (Oct 2015)
 - Luxembourg (2001)
 - Germany (2001)
+- Greece (March 2020, only 48 hours until the country shut down and we had to leave)
 
 ## Upcoming in 2020:
 
-* Greece (March)
-* Peru (June)
-* Russia (*maybe*)
+* ~~Peru (June)~
+* ~~Russia (Oct)~
+All Travel was cancelled... 2020 was cancelled. 
 
 # United States travel
 I won't count the state if I was only in the airport there.  I'm excited to go explore the states I haven't been to yet via Van-life!
