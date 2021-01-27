@@ -6,7 +6,8 @@ bigimg: /img/Quarantine.png
 ---
 
 
-# This Quarantine life.  All of the recipes
+# This Quarantine life, all of the recipes!
+  
 
 
 I don't know about you, but I gained the quarantine **20**, I think I saw it somewhere written as "How to not gain the quarantine 15", but 5 lbs per month seems right.  We started in March, then carried to April... May... June... 
